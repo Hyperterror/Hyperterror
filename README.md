@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to Hyperterror's Tech Domain 💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Hyperterror;Cybersecurity+%26+AI+Specialist+%F0%9F%94%92;Building+Secure+AI+Solutions+%E2%9C%A8;Python+%7C+Java+%7C+C+%7C+Security+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Ishit+Agarwal;Cybersecurity+%26+AI+Specialist+%F0%9F%94%92;Building+Secure+AI+Solutions+%E2%9C%A8;Python+%7C+Java+%7C+C+%7C+Security+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
