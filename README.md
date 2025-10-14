@@ -120,48 +120,6 @@ class Hyperterror:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hyperterror&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
----
-
-## 🔥 What I'm Working On
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#00D9FF','primaryTextColor':'#000','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#006100','tertiaryColor':'#fff', 'fontSize':'16px'}}}%%
-mindmap
-  root((My Tech Journey))
-    Cybersecurity
-      Penetration Testing
-      Network Security
-      Threat Analysis
-      Security Auditing
-    AI & Machine Learning
-      LangChain Development
-      Ollama Integration
-      Predictive Analytics
-      Crime Pattern Analysis
-    Computer Vision
-      Real-time Detection
-      Image Processing
-      Color Recognition
-    Development
-      Full Stack Apps
-      Firebase Integration
-      TypeScript Projects
-      Java Applications
-    Social Impact
-      Fraud Awareness
-      Public Safety
-      Educational Platforms
-      Secure Systems
-```
-
----
-
 ## 🎓 Current Focus
 
 <table align="center">
