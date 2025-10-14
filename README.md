@@ -187,7 +187,6 @@ class Hyperterror:
   
   ### 💖 Thanks for visiting! Let's build something extraordinary together! 🚀
   
-  ![Visitor Count](https://profile-counter.glitch.me/Hyperterror/count.svg)
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </div>
