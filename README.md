@@ -131,6 +131,7 @@ class Hyperterror:
 ## 🔥 What I'm Working On
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#00D9FF','primaryTextColor':'#000','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#006100','tertiaryColor':'#fff', 'fontSize':'16px'}}}%%
 mindmap
   root((My Tech Journey))
     Cybersecurity
