@@ -97,7 +97,7 @@ class Hyperterror:
 | 🚨 [Crime Analysis & Prediction](https://github.com/Hyperterror/Crime_Analysis_Prediction_System) | Advanced system for analyzing and predicting crime patterns | Python, ML, Data Science |
 | ☎️ [Call Fraud Awareness](https://github.com/Hyperterror/Call-fraud-Awareness) | Educational platform to spread awareness about phone scams | Python, Web Development |
 | 🎨 [Neon Color Detector](https://github.com/Hyperterror/Neon-Color-Detector) | Real-time neon color detection using computer vision | Python, OpenCV |
-| 💼 [Manipal IIIC](https://github.com/Hyperterror/Manipal_IIIC_2) | Offline Agentic Chatbot | TypeScript | Python , Ollama| Firebase | Docker |
+| 💼 [Manipal IIIC](https://github.com/Hyperterror/Manipal_IIIC_2) | Offline Agentic Chatbot | TypeScript, Python , Ollama, Firebase, Docker |
 
 </div>
 
