@@ -94,10 +94,11 @@ class Hyperterror:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚨 [Crime Analysis & Prediction](https://github.com/Hyperterror/Crime_Analysis_Prediction_System) | Advanced system for analyzing and predicting crime patterns | Python, ML, Data Science |
-| ☎️ [Call Fraud Awareness](https://github.com/Hyperterror/Call-fraud-Awareness) | Educational platform to spread awareness about phone scams | Python, Web Development |
-| 🎨 [Neon Color Detector](https://github.com/Hyperterror/Neon-Color-Detector) | Real-time neon color detection using computer vision | Python, OpenCV |
-| 💼 [Manipal IIIC](https://github.com/Hyperterror/Manipal_IIIC_2) | Offline Agentic Chatbot | TypeScript, Python , Ollama, Firebase, Docker |
+| 🔍 [AI Nmap Helper](https://github.com/Hyperterror/AI-Nmap-Helper) | HelperTerminal-based agentic tool that maps natural language security tasks to Nmap scans and generates AI-powered summaries| Python, Groq, Nmap |
+| 🏢 [Enterprise AI Assistant](http://github.com/Hyperterror/EnterpriseAI-Assistant) | Offline AI-powered organizational assistant with RBAC for HR, policy, and employee queries | Python, TypeScript, FastAPI, Ollama, LangChain, Next.js |
+| 🤟 [SignVista](https://github.com/Hyperterror/SignVista) | Indian Sign Language recognition platform with gamified learning for the deaf community | Python, TypeScript, Computer Vision |
+| ⚖️ [Legal Redline Sandbox](https://github.com/Hyperterror/Legal_Redline_Sandbox) | AI-powered contract analysis tool that identifies risky clauses, suggests rewrites, and generates visual diff reports| Python, React, FastAPI, Gemini API |
+| 🔗 [TruthLedger](https://github.com/Hyperterror/TruthLedger) | Blockchain-based charitable donation platform with milestone-based fund release, fraud detection, and public audit trails| Solidity, Python, TypeScript, FastAPI, Next.js, MongoDB|
 
 </div>
 
