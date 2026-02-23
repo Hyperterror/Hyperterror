@@ -25,10 +25,11 @@ class Hyperterror:
             "Security Research"
         ]
         self.current_projects = [
-            "Crime Analysis & Prediction",
-            "Call Fraud Awareness Platform",
-            "Real-time Color Detection"
-            "Offline Agentic Chatbot"
+            "AI Nmap Helper",
+            "Enterprise AI Assistant",
+            "Legal Redline Sandbox"
+            "TruthLedger"
+            "SignVista"
         ]
         self.learning = ["Cybersecurity", "AI/ML", "Ollama", "AI Security","Full Stack Development","Cloud Technologies"]
 
